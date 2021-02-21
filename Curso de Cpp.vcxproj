@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClCompile Include="src\Aula 05 - Como o C++ funciona\HCppW_Log.cpp" />
     <ClCompile Include="src\Aula 05 - Como o C++ funciona\HCppW_Main.cpp" />
+    <ClCompile Include="src\Aula 06 - Como o compilador de C++ funciona\HCppCW_Math.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitattributes" />
@@ -158,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Aula 05 - Como o C++ funciona\Default_Locale.h" />
+    <ClInclude Include="src\Aula 06 - Como o compilador de C++ funciona\HCppCW_EndBrace.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

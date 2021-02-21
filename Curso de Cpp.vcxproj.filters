@@ -21,6 +21,9 @@
     <ClCompile Include="src\Aula 05 - Como o C++ funciona\HCppW_Main.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="src\Aula 06 - Como o compilador de C++ funciona\HCppCW_Math.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitattributes" />
@@ -30,6 +33,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Aula 05 - Como o C++ funciona\Default_Locale.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Aula 06 - Como o compilador de C++ funciona\HCppCW_EndBrace.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
